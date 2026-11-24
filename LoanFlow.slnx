@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LoanFlow.API/LoanFlow.API.csproj" />
+  <Project Path="LoanFlow.Application/LoanFlow.Application.csproj" />
+  <Project Path="LoanFlow.Domain/LoanFlow.Domain.csproj" />
+  <Project Path="LoanFlow.Infrastructure/LoanFlow.Infrastructure.csproj" />
+  <Project Path="LoanFlow.Tests/LoanFlow.Tests.csproj" />
+</Solution>
